@@ -1,6 +1,6 @@
 # fastai-binder-app-template
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naokikambe/fastai-binder-app/HEAD?labpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naokikambe/fastai-binder-app/HEAD?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
 
 This is a template github project for building your binder app based on [Lesson 3 of the fastai course v4](https://course.fast.ai/videos/?lesson=3) (2020) and also discussed in [Chapter 2](https://github.com/fastai/fastbook/blob/master/02_production.ipynb) of the book **"Deep Learning for Coders with fastai and Pytorch"** . This template is based on the [instructions posted on the fastai forums here](https://forums.fast.ai/t/deploying-your-notebook-as-an-app-under-10-minutes/70621?u=butchland).
 
